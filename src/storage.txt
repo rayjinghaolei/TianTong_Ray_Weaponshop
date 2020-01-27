@@ -1,0 +1,32 @@
+Gun,MAC-10,100,22.2,120,SMG,9mm,9.25,32,1.8
+Gun,P30L,50,7.14,60,Pistol,9mm,21,15,1.2
+Gun,M9,30,8.3,60,Pistol,9mm,12,15,1.6
+Gun,MP5,60,11.1,65,SMG,9mm,11,30,2
+Gun,M870,60,1.1,50,Shotgun,12 gauge,112.5,5,3.75
+Gun,Saiga-12,75,2.5,45,Shotgun,12 gauge,112.5,5,2.5
+Gun,SPAS-12,60,1.33,45,Shotgun,12 gauge,78.75,9,3.5
+Gun,SV-98,150,0.7,220,Sniper,7.62mm,80,10,2.7
+Gun,PKP,200,10,120,LMG,7.62mm,18,200,5
+Gun,Groza,50,12.82,80,Assault Rifle,7.62mm,12.5,30,2.8
+Gun,AK-47,80,10,100,Assault Rifle,7.62mm,13.5,30,2.5
+Gun,M1 Garand,120,5,140,DMR,7.62mm,32,8,2
+MeleeWeapon,Emperor's Kanata,800,5,8,120
+MeleeWeapon,Kanata,80,2.5,6,40
+MeleeWeapon,Pan,60,2,4,60
+MeleeWeapon,Bowie,20,4,1,24
+MeleeWeapon,Stone Hammer,70,2.5,5,60
+Grenade,Frag Grenade,10,2.5,6,4,125
+Grenade,MIRV Grenade,16,2.5,10,4,150
+Grenade,Fake Grenade,3,10,0,0,0    
+Grenade,Snow Ball,2,5,1,0,1
+Vest,Old Vest,20,1,30
+Vest,Future Vest,120,3,100
+Vest,Golden Vest,500,3,20
+Vest,Normal Vest,80,2,75
+Helmet,Old Helmet,15,1,20
+Helmet,Paper Helmet,10,1,5
+Helmet,Steel Helmet,50,2,60
+Helmet,Future Helmet,150,3,120
+Bullet,9mm,30,50
+Bullet,12 gauge,30,25
+Bullet,7.62mm,75,100
